@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<injections>
+	<injection classe="Pile" injection="java.util.LinkedList"/>
+</injections>
